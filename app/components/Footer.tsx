@@ -6,7 +6,7 @@ export default function Footer() {
         {/* Logo + Company Name */}
         <div className="flex flex-col items-center">
           <img 
-            src="/logo.png" 
+            src="/techstrom-logo.png" 
             alt="Techstrom Logo" 
             className="h-12 w-auto mb-2"
           />
