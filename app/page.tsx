@@ -1,6 +1,7 @@
 import Services from "./components/Services";
 import ContactSection from "./components/ContactSection";
 import AboutSection from "./components/AboutSection";
+import AboutUs from "./components/AboutUs";
 import Values from "./components/Values";
 
 export const dynamic = "force-static";
@@ -44,7 +45,7 @@ export default function Home() {
       </main>
 
       <section id="aboutus">
-        <AboutSection />
+        <AboutUs />
       </section>
 
       <section id="values">

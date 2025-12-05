@@ -25,7 +25,7 @@ export default function Navbar() {
         mt-3 md:mt-0 
         flex-wrap justify-end
       ">
-        <a href="#about" className="hover:text-[#0FB8B3] transition">
+        <a href="#aboutus" className="hover:text-[#0FB8B3] transition">
           About
         </a>
         <a href="#services" className="hover:text-[#0FB8B3] transition">
