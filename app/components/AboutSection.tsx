@@ -25,7 +25,7 @@ export default function AboutSection() {
             </p>
 
             <p className="text-gray-400 leading-relaxed">
-              Hunter brings hands-on mechanical engineering experience, compliance expertise, technical contracting 
+              Hunter brings both hands-on mechanical and electrical engineering experience, compliance expertise, technical contracting 
               skills, and a deep understanding of physical systems. His approach emphasizes safety, 
               durability, and precision — ensuring that every project meets industry standards and 
               produces dependable, real-world results.
@@ -46,11 +46,7 @@ export default function AboutSection() {
               modernizing workflows through thoughtful engineering.
             </p>
           </div>
-
-          
-
         </div>
-
       </div>
     </div>
   );
