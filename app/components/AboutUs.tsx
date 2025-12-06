@@ -45,7 +45,7 @@ export default function AboutUs() {
               Co-Founder • Mechanical Engineer & Technical Compliance Specialist
             </p>
             <p className="text-gray-400 leading-relaxed">
-              Hunter brings hands-on mechanical engineering experience,
+              Hunter brings both hands-on mechanical and electrical engineering experience,
               compliance expertise, technical contracting skills, and a deep
               understanding of physical systems. His approach emphasizes safety,
               durability, and precision — ensuring dependable, real-world
