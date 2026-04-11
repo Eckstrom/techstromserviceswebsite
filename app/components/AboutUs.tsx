@@ -25,6 +25,11 @@ export default function AboutUs() {
             engineering with mechanical and systems knowledge, we deliver
             practical, efficient solutions for modern businesses.
           </p>
+
+          <p className="text-gray-500 text-base mt-4">
+            Based in <strong className="text-teal-600">Alpharetta, GA</strong> — proudly serving clients across the{" "}
+            <strong className="text-teal-600">greater Atlanta metro area</strong> and beyond.
+          </p>
         </motion.div>
 
         {/* TWO CARDS SIDE BY SIDE */}
