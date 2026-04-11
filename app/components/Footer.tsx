@@ -1,3 +1,5 @@
+"use client";
+
 export default function Footer() {
   return (
     <footer className="bg-[#0A2530] text-gray-300 py-10 mt-20">
