@@ -113,7 +113,7 @@ export default function AboutUs() {
             className="flex flex-col justify-center max-h-[400px]"
           >
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Whether it’s deploying smart devices, installing Bitcoin ATMs,
+              Whether it’s deploying smart devices, building mobile applications,
               optimizing business technology, or developing robust software
               tools, we deliver solutions that are modern, secure, and built to
               last.
